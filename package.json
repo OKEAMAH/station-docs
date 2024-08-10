@@ -18,7 +18,7 @@
     "@docusaurus/core": "^2.3.1",
     "@docusaurus/preset-classic": "^3.5.0",
     "@emotion/react": "^11.9.3",
-    "@mdx-js/react": "^2.1.2",
+    "@mdx-js/react": "^3.0.1",
     "@rebass/preset": "^4.0.5",
     "clsx": "^1.2.1",
     "docusaurus-plugin-matomo": "^0.0.6",
